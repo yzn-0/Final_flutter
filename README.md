@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# login page :
+# Login page :
  <strong>Registered users can log in to the app using their credentials. Invalid login attempts are handled gracefully with error messages.</strong>
  <br>
 ![Screenshot 2025-01-11 175722](https://github.com/user-attachments/assets/17edb604-5829-4210-8826-61fa146d733a)
