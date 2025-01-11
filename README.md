@@ -45,7 +45,7 @@
 <br>
 <br>
 <br>
-# Data page : 
+# DataBase page : 
 <strong> This page is the Users Table from the Supabase database. It stores the user accounts for the app.</strong>
 <br>
 ![Screenshot 2025-01-11 180254](https://github.com/user-attachments/assets/a238e720-9853-4c38-b3ea-dbb9e46fd692)
