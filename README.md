@@ -49,5 +49,10 @@
 <strong> This page is the Users Table from the Supabase database. It stores the user accounts for the app.</strong>
 <br>
 ![Screenshot 2025-01-11 180254](https://github.com/user-attachments/assets/a238e720-9853-4c38-b3ea-dbb9e46fd692)
+<br>
+<br>
+<strong>I implemented public policies to allow controlled user signup and login operations. These policies enable insert (for account creation) and select (for login verification), while relying on the application to secure and manage direct access to the database.</strong>
+![b6e3f95d-5bf5-4246-983e-440342e80edf](https://github.com/user-attachments/assets/d633b045-f15e-44fb-a02a-fe7edb12610b)
+
 
 
