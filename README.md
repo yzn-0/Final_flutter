@@ -1,10 +1,13 @@
-# final_flutter
 
-<strong>[ A Movie app project ]</strong>
+
+# [ A Movie app project ]
+<strong> The Movie App is a Flutter-based application designed to provide users with a seamless and interactive experience for browsing and learning about movies. The app includes user authentication features and a movie listing interface, making it both functional and user-friendly. </strong>
 <br>
 <br>
-<strong> login page : </strong>
 
+# login page :
+ <strong>Registered users can log in to the app using their credentials. Invalid login attempts are handled gracefully with error messages.</strong>
+ <br>
 ![Screenshot 2025-01-11 175722](https://github.com/user-attachments/assets/17edb604-5829-4210-8826-61fa146d733a)
 
 <br>
@@ -12,8 +15,9 @@
 <br>
 <br>
 
-<strong> Sign Up page : </strong>
-
+# Sign Up page : 
+<strong> New users can register by providing their email and password, which are securely stored in the Supabase database.</strong>
+<br>
 ![Screenshot 2025-01-11 175733](https://github.com/user-attachments/assets/f57f1217-a3c2-49e0-a039-35f706d1e200)
 
 <br>
@@ -21,8 +25,9 @@
 <br>
 <br>
 
-<strong> Movie list page : </strong>
-
+# Movie list page : 
+<strong> After logging in, users are redirected to a page displaying a list of movies with their posters.</strong>
+<br>
 ![Screenshot 2025-01-11 175801](https://github.com/user-attachments/assets/106575d2-86e6-41be-8c27-8bb019731b44)
 
 <br>
@@ -30,8 +35,9 @@
 <br>
 <br>
 
-<strong> Movie details page : </strong>
-
+# Movie details page : 
+<strong> The Movie Details Page is shown when a user clicks on a movie from the list. This page provides detailed information about the selected movie.</strong>
+<br>
 ![Screenshot 2025-01-11 175821](https://github.com/user-attachments/assets/2bc7275e-d069-4e94-9dc1-39183c96481f)
 <br>
 <br>
@@ -39,7 +45,9 @@
 <br>
 <br>
 <br>
-<strong> Data page : </strong>
+# Data page : 
+<strong> This page is the Users Table from the Supabase database. It stores the user accounts for the app.</strong>
+
 <br>
 ![Screenshot 2025-01-11 180254](https://github.com/user-attachments/assets/d971e198-6bea-4a71-842a-775a484f07f9)
 
